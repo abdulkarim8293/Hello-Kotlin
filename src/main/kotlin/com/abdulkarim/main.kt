@@ -1,10 +1,17 @@
-
+package com.abdulkarim
 /*
 * Created by Abdul Karim
 * basic syntex
 * */
 
 fun main(args: Array<String>) {
+
+    // variable and data type
+    val quantity = 10
+    val price = 123.12
+    val floatNumber = 123.123f
+    val isChecked = true
+    val character = 'A'
 
     val myName = "Abdul Karim"
     Message(myName).display()
