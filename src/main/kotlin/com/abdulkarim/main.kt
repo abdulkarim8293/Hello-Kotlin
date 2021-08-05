@@ -7,7 +7,7 @@ package com.abdulkarim
 fun main(args: Array<String>) {
 
     // variable and data type
-    val quantity = 10
+    val quantity:Int = 10
     val price = 123.12
     val floatNumber = 123.123f
     val isChecked = true
